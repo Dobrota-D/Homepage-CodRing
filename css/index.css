@@ -27,7 +27,6 @@ body {
 .title-container p {
     font-size: 15px;
     margin: 0;
-    color: #6600cc;
 }
 
 /* BACK TO TOP BUTTON */
@@ -215,7 +214,7 @@ body {
 
 /* SERVICES SECTION */
 #services-section {
-    background-color: #353535;
+    background-color: #18181b;
     padding-bottom: 10vh;
 }
 .services-title-container {
@@ -223,6 +222,9 @@ body {
     color: white;
     justify-content: space-between;
     margin-bottom: 6vh;
+}
+.services-title-container p{
+    color: #ffffff;
 }
 .services-title-container img {
     width: 100px;
@@ -267,7 +269,7 @@ body {
 }
 /* PRESENTATION SECTION */
 #presentation-section {
-    background-color: #353535;
+    background-color: #18181b;
     color: white;
     padding-bottom: 10vh;
 }
@@ -291,7 +293,7 @@ body {
     height: 200px;
 }
 #soustxt1{
-    color:  #6600cc;
+    color:  #ffffff;
     font-size: 14px;
 }
 .Titre1{
@@ -332,7 +334,7 @@ body {
     flex-direction: column;
 }
 #soustxt2{
-    color:  #6600cc;
+    color:  #ffffff;
     font-size: 14px;
 }
 #imgLorem2{
@@ -352,7 +354,7 @@ body {
     height: 200px;
 }
 #soustxt3{
-    color:  #6600cc;
+    color:  #ffffff;
     font-size: 14px;
 }
 .Titre3{
