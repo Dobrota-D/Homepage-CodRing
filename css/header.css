@@ -35,7 +35,7 @@ header a {
 }
 header li span {
     display: block;
-    background-color: #4EADAD;
+    background-color: #6600cc;
     width: 0;
     height: 2px;
     border-radius: 10px;
@@ -59,7 +59,7 @@ header li:hover span {
 }
 .progress-bar {
     display: block;
-    background-color: #4EADAD;
+    background-color: #6600cc;
     height: 100%;
     width: 0;
     border-radius: 0 5px 5px 0;
